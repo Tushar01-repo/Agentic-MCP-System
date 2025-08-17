@@ -1,4 +1,4 @@
-# 🎬 Movie Booking Assistant — DeepSeek + FastMCP
+# 🎬 Movie Booking Assistant — DeepSeek + FastMCP (V1)
 
 An intelligent, agentic CLI assistant for movie discovery and ticket booking. Powered by DeepSeek LLM for intent extraction and FastMCP for modular tool orchestration.
 
@@ -27,13 +27,13 @@ An intelligent, agentic CLI assistant for movie discovery and ticket booking. Po
 ## 📄 Install dependencies
 - pip install -r requirements.txt
 
-## 📄 Start the server (running on HTTP)
+## 🧭 Start the server (running on HTTP)
 - python server.py
 
-## Launch CLI assistant (Custom Elicitation)
+## 🌐 Launch CLI assistant (Custom Elicitation)
 - python intent_analyser.py
 
-## 💬 Example Usage
+## 💬 Example Usage (with MCP server running on HTTP with the use of custom elicitation)
 🎬 Movie Booking Assistant (DeepSeek + FastMCP) — type 'exit' to quit
 
 You: Show me movies in Delhi
@@ -57,3 +57,19 @@ How many seats?: 2
 ➡ Calling MCP tool: book_ticket with {'show_id': 'show001', 'seats': 2}
 🤖 Booking Result:
 ✅ 2 seats booked for show show001 — remaining: 40
+
+## 🧩 Working with MCP Server (Start MCP Server)
+
+1. **Install Claude Desktop**  
+   Download and install the [Claude Desktop app](https://claude.ai).
+
+2. **Run the MCP Server**  
+   Start your MCP server using: **python mcp_server.py**
+   
+4. **Install the MCP Server in Claud**
+   Use uv to register your MCP server with Claude: **uv run mcp install mcp_server.py**
+
+5. **Verify in Claude Settings & Test**
+   - Open Claude Desktop
+   - Go to Settings → MCP Servers and confirm your server is listed and running
+   - Start a new chat and interact with your MCP server (e.g., ask about movies, showtimes, ticket booking)
