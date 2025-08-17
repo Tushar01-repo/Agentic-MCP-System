@@ -58,6 +58,9 @@ How many seats?: 2
 🤖 Booking Result:
 ✅ 2 seats booked for show show001 — remaining: 40
 
+![Screenshot 2025-08-17 205621](https://github.com/user-attachments/assets/b3d32e98-6663-48fd-8cd8-3a5360856a6f)
+
+
 ## 🧩 Working with MCP Server (Start MCP Server)
 
 1. **Install Claude Desktop**  
