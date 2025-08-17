@@ -1,0 +1,8 @@
+fastmcp>=2.0.0
+uvicorn>=0.22.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pydantic>=2.5.2
+typing-extensions>=4.8.0
+pytest>=7.4.0
+# sk-2ff4f8eb70f64a2c9ef7497ba093d247

@@ -1,0 +1,293 @@
+[
+  {
+    "movie_id": "M001",
+    "name": "Inception",
+    "genre": "Sci-Fi",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S001",
+        "time": "2025-08-15T18:30:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 150,
+          "available": 72
+        }
+      },
+      {
+        "show_id": "S002",
+        "time": "2025-08-15T21:00:00",
+        "theatre_name": "INOX",
+        "seats": {
+          "total": 120,
+          "available": 23
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M002",
+    "name": "The Dark Knight",
+    "genre": "Action",
+    "location": "Mumbai",
+    "showtimes": [
+      {
+        "show_id": "S003",
+        "time": "2025-08-15T20:00:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 200,
+          "available": 120
+        }
+      },
+      {
+        "show_id": "S004",
+        "time": "2025-08-15T23:30:00",
+        "theatre_name": "Carnival Cinemas",
+        "seats": {
+          "total": 150,
+          "available": 50
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M003",
+    "name": "Avatar: The Way of Water",
+    "genre": "Sci-Fi",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S005",
+        "time": "2025-08-16T17:00:00",
+        "theatre_name": "Cinepolis",
+        "seats": {
+          "total": 180,
+          "available": 90
+        }
+      },
+      {
+        "show_id": "S006",
+        "time": "2025-08-16T20:30:00",
+        "theatre_name": "INOX",
+        "seats": {
+          "total": 130,
+          "available": 70
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M004",
+    "name": "Interstellar",
+    "genre": "Sci-Fi",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S007",
+        "time": "2025-08-15T19:00:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 160,
+          "available": 40
+        }
+      },
+      {
+        "show_id": "S008",
+        "time": "2025-08-15T22:30:00",
+        "theatre_name": "INOX",
+        "seats": {
+          "total": 140,
+          "available": 80
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M005",
+    "name": "Oppenheimer",
+    "genre": "Drama",
+    "location": "Bengaluru",
+    "showtimes": [
+      {
+        "show_id": "S009",
+        "time": "2025-08-15T21:30:00",
+        "theatre_name": "Carnival Cinemas",
+        "seats": {
+          "total": 130,
+          "available": 50
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M006",
+    "name": "Barbie",
+    "genre": "Comedy",
+    "location": "Bengaluru",
+    "showtimes": [
+      {
+        "show_id": "S010",
+        "time": "2025-08-15T16:00:00",
+        "theatre_name": "Cinepolis",
+        "seats": {
+          "total": 140,
+          "available": 100
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M007",
+    "name": "Mission Impossible: Dead Reckoning",
+    "genre": "Action",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S011",
+        "time": "2025-08-15T22:00:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 200,
+          "available": 75
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M008",
+    "name": "The Matrix",
+    "genre": "Sci-Fi",
+    "location": "Mumbai",
+    "showtimes": [
+      {
+        "show_id": "S012",
+        "time": "2025-08-16T18:00:00",
+        "theatre_name": "INOX",
+        "seats": {
+          "total": 180,
+          "available": 73
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M009",
+    "name": "Titanic",
+    "genre": "Romance",
+    "location": "Mumbai",
+    "showtimes": [
+      {
+        "show_id": "S013",
+        "time": "2025-08-15T20:00:00",
+        "theatre_name": "Carnival Cinemas",
+        "seats": {
+          "total": 150,
+          "available": 14
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M010",
+    "name": "Joker",
+    "genre": "Drama",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S014",
+        "time": "2025-08-15T23:00:00",
+        "theatre_name": "Cinepolis",
+        "seats": {
+          "total": 160,
+          "available": 39
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M011",
+    "name": "Frozen II",
+    "genre": "Animation",
+    "location": "Bengaluru",
+    "showtimes": [
+      {
+        "show_id": "S015",
+        "time": "2025-08-16T14:30:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 120,
+          "available": 50
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M012",
+    "name": "Spider-Man: No Way Home",
+    "genre": "Action",
+    "location": "Bengaluru",
+    "showtimes": [
+      {
+        "show_id": "S016",
+        "time": "2025-08-16T19:00:00",
+        "theatre_name": "Carnival Cinemas",
+        "seats": {
+          "total": 180,
+          "available": 110
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M013",
+    "name": "Black Panther",
+    "genre": "Action",
+    "location": "Mumbai",
+    "showtimes": [
+      {
+        "show_id": "S017",
+        "time": "2025-08-15T17:30:00",
+        "theatre_name": "INOX",
+        "seats": {
+          "total": 170,
+          "available": 60
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M014",
+    "name": "Inside Out 2",
+    "genre": "Animation",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S018",
+        "time": "2025-08-16T15:00:00",
+        "theatre_name": "Cinepolis",
+        "seats": {
+          "total": 130,
+          "available": 88
+        }
+      }
+    ]
+  },
+  {
+    "movie_id": "M015",
+    "name": "Avengers: Endgame",
+    "genre": "Action",
+    "location": "Delhi",
+    "showtimes": [
+      {
+        "show_id": "S019",
+        "time": "2025-08-15T18:00:00",
+        "theatre_name": "PVR Cinemas",
+        "seats": {
+          "total": 200,
+          "available": 80
+        }
+      }
+    ]
+  }
+]
