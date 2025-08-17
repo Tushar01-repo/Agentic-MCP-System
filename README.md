@@ -17,11 +17,12 @@ An intelligent, agentic CLI assistant for movie discovery and ticket booking. Po
 
 ## 🗂️ Project Structure
 
-├── server.py # FastMCP server with movie tools ├── intent_analyser.py # CLI assistant with DeepSeek integration 
+├── server.py # FastMCP server with movie tools 
+├── intent_analyser.py # CLI assistant with DeepSeek integration 
 ├── movies_data/ 
 │ └── data.json # Movie + showtime data 
 ├── .env # API keys and config 
-└── README.md # You're here!
+└── README.md 
 
 ## 📄 Install dependencies
 - pip install -r requirements.txt
