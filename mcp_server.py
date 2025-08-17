@@ -1,4 +1,4 @@
-# server.py
+# mcp_server.py
 from fastmcp import FastMCP
 from mcp.server.fastmcp.server import FastMCP
 import json
