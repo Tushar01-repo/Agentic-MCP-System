@@ -73,6 +73,6 @@ How many seats?: 2
    - Open Claude Desktop
    - Go to Settings → MCP Servers and confirm your server is listed and running
    - Start a new chat and interact with your MCP server (e.g., ask about movies, showtimes, ticket booking)
-![Screenshot 2025-08-17 205010](https://github.com/user-attachments/assets/87cacad3-2994-4989-84db-0eef9442832d)-![Screenshot 2025-08-17 205010](https://github.com/user-attachments/assets/62aaec47-9454-4123-9cb3-f63d5bd7d733)
+![Screenshot 2025-08-17 205010](https://github.com/user-attachments/assets/87cacad3-2994-4989-84db-0eef9442832d)
 
 
